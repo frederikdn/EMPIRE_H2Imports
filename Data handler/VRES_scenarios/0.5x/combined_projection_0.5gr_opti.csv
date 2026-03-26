@@ -1,0 +1,897 @@
+Node,Technology,Period,Capacity
+Austria,Wind_onshr,1,4021.0
+Belgium,Wind_onshr,1,3242.0
+Bosnia H,Wind_onshr,1,500.0
+Bulgaria,Wind_onshr,1,705.0
+Croatia,Wind_onshr,1,1143.0
+Czech R,Wind_onshr,1,500.0
+Denmark,Wind_onshr,1,4860.0
+Estonia,Wind_onshr,1,500.0
+Finland,Wind_onshr,1,6884.0
+France,Wind_onshr,1,22194.0
+Germany,Wind_onshr,1,61052.0
+Great Brit.,Wind_onshr,1,16000.0
+Greece,Wind_onshr,1,5220.0
+Hungary,Wind_onshr,1,500.0
+Ireland,Wind_onshr,1,4782.0
+Italy,Wind_onshr,1,12308.0
+Latvia,Wind_onshr,1,500.0
+Lithuania,Wind_onshr,1,1288.0
+Luxemb.,Wind_onshr,1,500.0
+Macedonia,Wind_onshr,1,500.0
+NO1,Wind_onshr,1,500.0
+NO2,Wind_onshr,1,1447.0
+NO3,Wind_onshr,1,2120.0
+NO4,Wind_onshr,1,1160.0
+NO5,Wind_onshr,1,500.0
+Netherlands,Wind_onshr,1,6812.0
+Poland,Wind_onshr,1,9628.0
+Portugal,Wind_onshr,1,5592.0
+Romania,Wind_onshr,1,3087.0
+Serbia,Wind_onshr,1,646.0
+Slovakia,Wind_onshr,1,500.0
+Slovenia,Wind_onshr,1,500.0
+Spain,Wind_onshr,1,31021.0
+Sweden,Wind_onshr,1,16700.0
+Switzerland,Wind_onshr,1,500.0
+Austria,Wind_onshr,2,4644.0
+Belgium,Wind_onshr,2,3795.0
+Bosnia H,Wind_onshr,2,581.0
+Bulgaria,Wind_onshr,2,756.0
+Croatia,Wind_onshr,2,1463.0
+Czech R,Wind_onshr,2,607.0
+Denmark,Wind_onshr,2,5188.0
+Estonia,Wind_onshr,2,604.0
+Finland,Wind_onshr,2,9784.0
+France,Wind_onshr,2,26696.0
+Germany,Wind_onshr,2,66956.0
+Great Brit.,Wind_onshr,2,18513.0
+Greece,Wind_onshr,2,6341.0
+Hungary,Wind_onshr,2,607.0
+Ireland,Wind_onshr,2,5581.0
+Italy,Wind_onshr,2,13693.0
+Latvia,Wind_onshr,2,657.0
+Lithuania,Wind_onshr,2,1759.0
+Luxemb.,Wind_onshr,2,527.0
+Macedonia,Wind_onshr,2,579.0
+NO1,Wind_onshr,2,671.0
+NO2,Wind_onshr,2,1832.0
+NO3,Wind_onshr,2,2161.0
+NO4,Wind_onshr,2,1424.0
+NO5,Wind_onshr,2,723.0
+Netherlands,Wind_onshr,2,8270.0
+Poland,Wind_onshr,2,11884.0
+Portugal,Wind_onshr,2,5988.0
+Romania,Wind_onshr,2,3424.0
+Serbia,Wind_onshr,2,981.0
+Slovakia,Wind_onshr,2,606.0
+Slovenia,Wind_onshr,2,565.0
+Spain,Wind_onshr,2,33768.0
+Sweden,Wind_onshr,2,21684.0
+Switzerland,Wind_onshr,2,549.0
+Austria,Wind_onshr,3,5339.0
+Belgium,Wind_onshr,3,4359.0
+Bosnia H,Wind_onshr,3,674.0
+Bulgaria,Wind_onshr,3,811.0
+Croatia,Wind_onshr,3,1865.0
+Czech R,Wind_onshr,3,737.0
+Denmark,Wind_onshr,3,5535.0
+Estonia,Wind_onshr,3,730.0
+Finland,Wind_onshr,3,13229.0
+France,Wind_onshr,3,32074.0
+Germany,Wind_onshr,3,72930.0
+Great Brit.,Wind_onshr,3,21381.0
+Greece,Wind_onshr,3,7685.0
+Hungary,Wind_onshr,3,736.0
+Ireland,Wind_onshr,3,6496.0
+Italy,Wind_onshr,3,15219.0
+Latvia,Wind_onshr,3,861.0
+Lithuania,Wind_onshr,3,2389.0
+Luxemb.,Wind_onshr,3,551.0
+Macedonia,Wind_onshr,3,669.0
+NO1,Wind_onshr,3,861.0
+NO2,Wind_onshr,3,2247.0
+NO3,Wind_onshr,3,2182.0
+NO4,Wind_onshr,3,1674.0
+NO5,Wind_onshr,3,1004.0
+Netherlands,Wind_onshr,3,9966.0
+Poland,Wind_onshr,3,14584.0
+Portugal,Wind_onshr,3,6407.0
+Romania,Wind_onshr,3,3796.0
+Serbia,Wind_onshr,3,1471.0
+Slovakia,Wind_onshr,3,733.0
+Slovenia,Wind_onshr,3,635.0
+Spain,Wind_onshr,3,36743.0
+Sweden,Wind_onshr,3,27802.0
+Switzerland,Wind_onshr,3,596.0
+Austria,Wind_onshr,4,6106.0
+Belgium,Wind_onshr,4,4912.0
+Bosnia H,Wind_onshr,4,782.0
+Bulgaria,Wind_onshr,4,870.0
+Croatia,Wind_onshr,4,2366.0
+Czech R,Wind_onshr,4,894.0
+Denmark,Wind_onshr,4,5903.0
+Estonia,Wind_onshr,4,879.0
+Finland,Wind_onshr,4,16909.0
+France,Wind_onshr,4,38481.0
+Germany,Wind_onshr,4,78891.0
+Great Brit.,Wind_onshr,4,24642.0
+Greece,Wind_onshr,4,9289.0
+Hungary,Wind_onshr,4,892.0
+Ireland,Wind_onshr,4,7537.0
+Italy,Wind_onshr,4,16899.0
+Latvia,Wind_onshr,4,1123.0
+Lithuania,Wind_onshr,4,3218.0
+Luxemb.,Wind_onshr,4,573.0
+Macedonia,Wind_onshr,4,771.0
+NO1,Wind_onshr,4,1056.0
+NO2,Wind_onshr,4,2666.0
+NO3,Wind_onshr,4,2191.0
+NO4,Wind_onshr,4,1892.0
+NO5,Wind_onshr,4,1329.0
+Netherlands,Wind_onshr,4,11907.0
+Poland,Wind_onshr,4,17776.0
+Portugal,Wind_onshr,4,6848.0
+Romania,Wind_onshr,4,4207.0
+Serbia,Wind_onshr,4,2169.0
+Slovakia,Wind_onshr,4,887.0
+Slovenia,Wind_onshr,4,710.0
+Spain,Wind_onshr,4,39963.0
+Sweden,Wind_onshr,4,35106.0
+Switzerland,Wind_onshr,4,643.0
+Austria,Wind_onshr,5,6943.0
+Belgium,Wind_onshr,5,5434.0
+Bosnia H,Wind_onshr,5,906.0
+Bulgaria,Wind_onshr,5,933.0
+Croatia,Wind_onshr,5,2984.0
+Czech R,Wind_onshr,5,1084.0
+Denmark,Wind_onshr,5,6292.0
+Estonia,Wind_onshr,5,1058.0
+Finland,Wind_onshr,5,20421.0
+France,Wind_onshr,5,46090.0
+Germany,Wind_onshr,5,84759.0
+Great Brit.,Wind_onshr,5,28332.0
+Greece,Wind_onshr,5,11191.0
+Hungary,Wind_onshr,5,1081.0
+Ireland,Wind_onshr,5,8713.0
+Italy,Wind_onshr,5,18742.0
+Latvia,Wind_onshr,5,1457.0
+Lithuania,Wind_onshr,5,4293.0
+Luxemb.,Wind_onshr,5,592.0
+Macedonia,Wind_onshr,5,888.0
+NO1,Wind_onshr,5,1239.0
+NO2,Wind_onshr,5,3063.0
+NO3,Wind_onshr,5,2196.0
+NO4,Wind_onshr,5,2069.0
+NO5,Wind_onshr,5,1669.0
+Netherlands,Wind_onshr,5,14090.0
+Poland,Wind_onshr,5,21495.0
+Portugal,Wind_onshr,5,7314.0
+Romania,Wind_onshr,5,4662.0
+Serbia,Wind_onshr,5,3122.0
+Slovakia,Wind_onshr,5,1071.0
+Slovenia,Wind_onshr,5,791.0
+Spain,Wind_onshr,5,43445.0
+Sweden,Wind_onshr,5,43541.0
+Switzerland,Wind_onshr,5,686.0
+Austria,Wind_onshr,6,7845.0
+Belgium,Wind_onshr,6,5909.0
+Bosnia H,Wind_onshr,6,1047.0
+Bulgaria,Wind_onshr,6,1000.0
+Croatia,Wind_onshr,6,3737.0
+Czech R,Wind_onshr,6,1314.0
+Denmark,Wind_onshr,6,6703.0
+Estonia,Wind_onshr,6,1269.0
+Finland,Wind_onshr,6,23429.0
+France,Wind_onshr,6,55093.0
+Germany,Wind_onshr,6,90458.0
+Great Brit.,Wind_onshr,6,32488.0
+Greece,Wind_onshr,6,13433.0
+Hungary,Wind_onshr,6,1308.0
+Ireland,Wind_onshr,6,10031.0
+Italy,Wind_onshr,6,20760.0
+Latvia,Wind_onshr,6,1876.0
+Lithuania,Wind_onshr,6,5654.0
+Luxemb.,Wind_onshr,6,608.0
+Macedonia,Wind_onshr,6,1020.0
+NO1,Wind_onshr,6,1395.0
+NO2,Wind_onshr,6,3415.0
+NO3,Wind_onshr,6,2198.0
+NO4,Wind_onshr,6,2204.0
+NO5,Wind_onshr,6,1988.0
+Netherlands,Wind_onshr,6,16494.0
+Poland,Wind_onshr,6,25752.0
+Portugal,Wind_onshr,6,7803.0
+Romania,Wind_onshr,6,5165.0
+Serbia,Wind_onshr,6,4351.0
+Slovakia,Wind_onshr,6,1292.0
+Slovenia,Wind_onshr,6,876.0
+Spain,Wind_onshr,6,47206.0
+Sweden,Wind_onshr,6,52917.0
+Switzerland,Wind_onshr,6,727.0
+Austria,Wind_onshr,7,8805.0
+Belgium,Wind_onshr,7,6329.0
+Bosnia H,Wind_onshr,7,1210.0
+Bulgaria,Wind_onshr,7,1072.0
+Croatia,Wind_onshr,7,4637.0
+Czech R,Wind_onshr,7,1592.0
+Denmark,Wind_onshr,7,7137.0
+Estonia,Wind_onshr,7,1517.0
+Finland,Wind_onshr,7,25776.0
+France,Wind_onshr,7,65698.0
+Germany,Wind_onshr,7,95920.0
+Great Brit.,Wind_onshr,7,37141.0
+Greece,Wind_onshr,7,16052.0
+Hungary,Wind_onshr,7,1582.0
+Ireland,Wind_onshr,7,11495.0
+Italy,Wind_onshr,7,22965.0
+Latvia,Wind_onshr,7,2395.0
+Lithuania,Wind_onshr,7,7326.0
+Luxemb.,Wind_onshr,7,623.0
+Macedonia,Wind_onshr,7,1169.0
+NO1,Wind_onshr,7,1519.0
+NO2,Wind_onshr,7,3711.0
+NO3,Wind_onshr,7,2199.0
+NO4,Wind_onshr,7,2303.0
+NO5,Wind_onshr,7,2260.0
+Netherlands,Wind_onshr,7,19084.0
+Poland,Wind_onshr,7,30531.0
+Portugal,Wind_onshr,7,8317.0
+Romania,Wind_onshr,7,5719.0
+Serbia,Wind_onshr,7,5827.0
+Slovakia,Wind_onshr,7,1556.0
+Slovenia,Wind_onshr,7,965.0
+Spain,Wind_onshr,7,51265.0
+Sweden,Wind_onshr,7,62906.0
+Switzerland,Wind_onshr,7,764.0
+Austria,Solar,1,7294.0
+Belgium,Solar,1,8789.0
+Bosnia H,Solar,1,500.0
+Bulgaria,Solar,1,4055.0
+Croatia,Solar,1,500.0
+Czech R,Solar,1,4008.0
+Denmark,Solar,1,4391.0
+Estonia,Solar,1,812.0
+Finland,Solar,1,900.0
+France,Solar,1,24500.0
+Germany,Solar,1,96000.0
+Great Brit.,Solar,1,16900.0
+Greece,Solar,1,7030.0
+Hungary,Solar,1,5835.0
+Ireland,Solar,1,738.0
+Italy,Solar,1,37000.0
+Latvia,Solar,1,500.0
+Lithuania,Solar,1,1165.0
+Luxemb.,Solar,1,500.0
+Macedonia,Solar,1,535.0
+NO1,Solar,1,500.0
+NO2,Solar,1,500.0
+NO3,Solar,1,500.0
+NO4,Solar,1,500.0
+NO5,Solar,1,500.0
+Netherlands,Solar,1,24261.0
+Poland,Solar,1,15809.0
+Portugal,Solar,1,3876.0
+Romania,Solar,1,1917.0
+Serbia,Solar,1,500.0
+Slovakia,Solar,1,647.0
+Slovenia,Solar,1,1110.0
+Spain,Solar,1,38592.0
+Sweden,Solar,1,3488.0
+Switzerland,Solar,1,5840.0
+Austria,Solar,2,11929.0
+Belgium,Solar,2,11243.0
+Bosnia H,Solar,2,713.0
+Bulgaria,Solar,2,6635.0
+Croatia,Solar,2,927.0
+Czech R,Solar,2,5013.0
+Denmark,Solar,2,7013.0
+Estonia,Solar,2,1460.0
+Finland,Solar,2,1476.0
+France,Solar,2,34194.0
+Germany,Solar,2,121681.0
+Great Brit.,Solar,2,20712.0
+Greece,Solar,2,9468.0
+Hungary,Solar,2,9559.0
+Ireland,Solar,2,1437.0
+Italy,Solar,2,46292.0
+Latvia,Solar,2,953.0
+Lithuania,Solar,2,2258.0
+Luxemb.,Solar,2,721.0
+Macedonia,Solar,2,1101.0
+NO1,Solar,2,923.0
+NO2,Solar,2,947.0
+NO3,Solar,2,928.0
+NO4,Solar,2,934.0
+NO5,Solar,2,938.0
+Netherlands,Solar,2,34106.0
+Poland,Solar,2,27433.0
+Portugal,Solar,2,6193.0
+Romania,Solar,2,2330.0
+Serbia,Solar,2,714.0
+Slovakia,Solar,2,733.0
+Slovenia,Solar,2,1731.0
+Spain,Solar,2,65025.0
+Sweden,Solar,2,5822.0
+Switzerland,Solar,2,8156.0
+Austria,Solar,3,18820.0
+Belgium,Solar,3,14191.0
+Bosnia H,Solar,3,1015.0
+Bulgaria,Solar,3,10678.0
+Croatia,Solar,3,1708.0
+Czech R,Solar,3,6252.0
+Denmark,Solar,3,11005.0
+Estonia,Solar,3,2586.0
+Finland,Solar,3,2399.0
+France,Solar,3,47534.0
+Germany,Solar,3,152072.0
+Great Brit.,Solar,3,25328.0
+Greece,Solar,3,12677.0
+Hungary,Solar,3,15446.0
+Ireland,Solar,3,2783.0
+Italy,Solar,3,57635.0
+Latvia,Solar,3,1799.0
+Lithuania,Solar,3,4328.0
+Luxemb.,Solar,3,1007.0
+Macedonia,Solar,3,2204.0
+NO1,Solar,3,1648.0
+NO2,Solar,3,1766.0
+NO3,Solar,3,1672.0
+NO4,Solar,3,1700.0
+NO5,Solar,3,1720.0
+Netherlands,Solar,3,44531.0
+Poland,Solar,3,46839.0
+Portugal,Solar,3,9674.0
+Romania,Solar,3,2831.0
+Serbia,Solar,3,1018.0
+Slovakia,Solar,3,830.0
+Slovenia,Solar,3,2654.0
+Spain,Solar,3,105373.0
+Sweden,Solar,3,9530.0
+Switzerland,Solar,3,11265.0
+Austria,Solar,4,28211.0
+Belgium,Solar,4,17630.0
+Bosnia H,Solar,4,1440.0
+Bulgaria,Solar,4,16753.0
+Croatia,Solar,4,3105.0
+Czech R,Solar,4,7769.0
+Denmark,Solar,4,16820.0
+Estonia,Solar,4,4460.0
+Finland,Solar,4,3845.0
+France,Solar,4,65720.0
+Germany,Solar,4,186954.0
+Great Brit.,Solar,4,30888.0
+Greece,Solar,4,16842.0
+Hungary,Solar,4,24433.0
+Ireland,Solar,4,5343.0
+Italy,Solar,4,71335.0
+Latvia,Solar,4,3335.0
+Lithuania,Solar,4,8119.0
+Luxemb.,Solar,4,1354.0
+Macedonia,Solar,4,4183.0
+NO1,Solar,4,2781.0
+NO2,Solar,4,3210.0
+NO3,Solar,4,2865.0
+NO4,Solar,4,2963.0
+NO5,Solar,4,3036.0
+Netherlands,Solar,4,54066.0
+Poland,Solar,4,77889.0
+Portugal,Solar,4,14620.0
+Romania,Solar,4,3438.0
+Serbia,Solar,4,1448.0
+Slovakia,Solar,4,940.0
+Slovenia,Solar,4,3970.0
+Spain,Solar,4,161339.0
+Sweden,Solar,4,15141.0
+Switzerland,Solar,4,15330.0
+Austria,Solar,5,39593.0
+Belgium,Solar,5,21509.0
+Bosnia H,Solar,5,2035.0
+Bulgaria,Solar,5,25329.0
+Croatia,Solar,5,5518.0
+Czech R,Solar,5,9609.0
+Denmark,Solar,5,24768.0
+Estonia,Solar,5,7372.0
+Finland,Solar,5,6032.0
+France,Solar,5,90196.0
+Germany,Solar,5,225615.0
+Great Brit.,Solar,5,37549.0
+Greece,Solar,5,22155.0
+Hungary,Solar,5,37444.0
+Ireland,Solar,5,10083.0
+Italy,Solar,5,87665.0
+Latvia,Solar,5,5991.0
+Lithuania,Solar,5,14669.0
+Luxemb.,Solar,5,1741.0
+Macedonia,Solar,5,7266.0
+NO1,Solar,5,4328.0
+NO2,Solar,5,5578.0
+NO3,Solar,5,4552.0
+NO4,Solar,5,4823.0
+NO5,Solar,5,5038.0
+Netherlands,Solar,5,61687.0
+Poland,Solar,5,124338.0
+Portugal,Solar,5,21119.0
+Romania,Solar,5,4172.0
+Serbia,Solar,5,2053.0
+Slovakia,Solar,5,1064.0
+Slovenia,Solar,5,5737.0
+Spain,Solar,5,229478.0
+Sweden,Solar,5,23025.0
+Switzerland,Solar,5,20470.0
+Austria,Solar,6,51587.0
+Belgium,Solar,6,25719.0
+Bosnia H,Solar,6,2861.0
+Bulgaria,Solar,6,36424.0
+Croatia,Solar,6,9436.0
+Czech R,Solar,6,11821.0
+Denmark,Solar,6,34737.0
+Estonia,Solar,6,11449.0
+Finland,Solar,6,9167.0
+France,Solar,6,122576.0
+Germany,Solar,6,266836.0
+Great Brit.,Solar,6,45470.0
+Greece,Solar,6,28780.0
+Hungary,Solar,6,54905.0
+Ireland,Solar,6,18450.0
+Italy,Solar,6,106833.0
+Latvia,Solar,6,10212.0
+Lithuania,Solar,6,24906.0
+Luxemb.,Solar,6,2133.0
+Macedonia,Solar,6,11146.0
+NO1,Solar,6,6086.0
+NO2,Solar,6,9044.0
+NO3,Solar,6,6558.0
+NO4,Solar,6,7159.0
+NO5,Solar,6,7661.0
+Netherlands,Solar,6,67147.0
+Poland,Solar,6,187273.0
+Portugal,Solar,6,28836.0
+Romania,Solar,6,5060.0
+Serbia,Solar,6,2899.0
+Slovakia,Solar,6,1204.0
+Slovenia,Solar,6,7933.0
+Spain,Solar,6,300404.0
+Sweden,Solar,6,33031.0
+Switzerland,Solar,6,26697.0
+Austria,Solar,7,62494.0
+Belgium,Solar,7,30102.0
+Bosnia H,Solar,7,3989.0
+Bulgaria,Solar,7,49268.0
+Croatia,Solar,7,15208.0
+Czech R,Solar,7,14449.0
+Denmark,Solar,7,45976.0
+Estonia,Solar,7,16390.0
+Finland,Solar,7,13336.0
+France,Solar,7,164448.0
+Germany,Solar,7,309013.0
+Great Brit.,Solar,7,54811.0
+Greece,Solar,7,36814.0
+Hungary,Solar,7,76099.0
+Ireland,Solar,7,32041.0
+Italy,Solar,7,128925.0
+Latvia,Solar,7,16101.0
+Lithuania,Solar,7,38651.0
+Luxemb.,Solar,7,2495.0
+Macedonia,Solar,7,14906.0
+NO1,Solar,7,7713.0
+NO2,Solar,7,13354.0
+NO3,Solar,7,8503.0
+NO4,Solar,7,9565.0
+NO5,Solar,7,10502.0
+Netherlands,Solar,7,70761.0
+Poland,Solar,7,262009.0
+Portugal,Solar,7,36966.0
+Romania,Solar,7,6130.0
+Serbia,Solar,7,4070.0
+Slovakia,Solar,7,1362.0
+Slovenia,Solar,7,10409.0
+Spain,Solar,7,363154.0
+Sweden,Solar,7,44203.0
+Switzerland,Solar,7,33864.0
+Belgium,Wind_offshr_floating,1,0.0
+Borssele,Wind_offshr_floating,1,0.0
+Denmark,Wind_offshr_floating,1,0.0
+Dogger Bank,Wind_offshr_floating,1,0.0
+East Anglia,Wind_offshr_floating,1,0.0
+Firth of Forth,Wind_offshr_floating,1,0.0
+France,Wind_offshr_floating,1,0.0
+Germany,Wind_offshr_floating,1,0.0
+Great Brit.,Wind_offshr_floating,1,0.0
+Helgoländer Bucht,Wind_offshr_floating,1,0.0
+Hollandsee Kust,Wind_offshr_floating,1,0.0
+Hornsea,Wind_offshr_floating,1,0.0
+Moray Firth,Wind_offshr_floating,1,0.0
+Netherlands,Wind_offshr_floating,1,0.0
+Nordsøen,Wind_offshr_floating,1,0.0
+Norfolk,Wind_offshr_floating,1,0.0
+Outer Dowsing,Wind_offshr_floating,1,0.0
+Belgium,Wind_offshr_floating,2,0.0
+Borssele,Wind_offshr_floating,2,0.0
+Denmark,Wind_offshr_floating,2,0.0
+Dogger Bank,Wind_offshr_floating,2,0.0
+East Anglia,Wind_offshr_floating,2,0.0
+Estonia,Wind_offshr_floating,2,0.0
+Finland,Wind_offshr_floating,2,0.0
+Firth of Forth,Wind_offshr_floating,2,350.0
+France,Wind_offshr_floating,2,41.0
+Germany,Wind_offshr_floating,2,0.0
+Great Brit.,Wind_offshr_floating,2,0.0
+Helgoländer Bucht,Wind_offshr_floating,2,0.0
+Hollandsee Kust,Wind_offshr_floating,2,0.0
+Hornsea,Wind_offshr_floating,2,0.0
+Ireland,Wind_offshr_floating,2,14.0
+Italy,Wind_offshr_floating,2,0.0
+Latvia,Wind_offshr_floating,2,0.0
+Lithuania,Wind_offshr_floating,2,0.0
+Moray Firth,Wind_offshr_floating,2,147.0
+NO2,Wind_offshr_floating,2,0.0
+Netherlands,Wind_offshr_floating,2,0.0
+Nordsøen,Wind_offshr_floating,2,0.0
+Norfolk,Wind_offshr_floating,2,0.0
+Outer Dowsing,Wind_offshr_floating,2,0.0
+Poland,Wind_offshr_floating,2,0.0
+Portugal,Wind_offshr_floating,2,13.0
+Spain,Wind_offshr_floating,2,14.0
+Sweden,Wind_offshr_floating,2,14.0
+Sørlige Nordsjø I,Wind_offshr_floating,2,6.0
+Sørlige Nordsjø II,Wind_offshr_floating,2,20.0
+Utsira Nord,Wind_offshr_floating,2,9.0
+Belgium,Wind_offshr_floating,3,0.0
+Borssele,Wind_offshr_floating,3,0.0
+Denmark,Wind_offshr_floating,3,0.0
+Dogger Bank,Wind_offshr_floating,3,0.0
+East Anglia,Wind_offshr_floating,3,0.0
+Estonia,Wind_offshr_floating,3,0.0
+Finland,Wind_offshr_floating,3,0.0
+Firth of Forth,Wind_offshr_floating,3,886.0
+France,Wind_offshr_floating,3,113.0
+Germany,Wind_offshr_floating,3,0.0
+Great Brit.,Wind_offshr_floating,3,0.0
+Helgoländer Bucht,Wind_offshr_floating,3,0.0
+Hollandsee Kust,Wind_offshr_floating,3,0.0
+Hornsea,Wind_offshr_floating,3,0.0
+Ireland,Wind_offshr_floating,3,38.0
+Italy,Wind_offshr_floating,3,0.0
+Latvia,Wind_offshr_floating,3,0.0
+Lithuania,Wind_offshr_floating,3,0.0
+Moray Firth,Wind_offshr_floating,3,372.0
+NO2,Wind_offshr_floating,3,0.0
+Netherlands,Wind_offshr_floating,3,0.0
+Nordsøen,Wind_offshr_floating,3,0.0
+Norfolk,Wind_offshr_floating,3,0.0
+Outer Dowsing,Wind_offshr_floating,3,0.0
+Poland,Wind_offshr_floating,3,0.0
+Portugal,Wind_offshr_floating,3,36.0
+Spain,Wind_offshr_floating,3,37.0
+Sweden,Wind_offshr_floating,3,37.0
+Sørlige Nordsjø I,Wind_offshr_floating,3,17.0
+Sørlige Nordsjø II,Wind_offshr_floating,3,53.0
+Utsira Nord,Wind_offshr_floating,3,25.0
+Belgium,Wind_offshr_floating,4,0.0
+Borssele,Wind_offshr_floating,4,0.0
+Denmark,Wind_offshr_floating,4,0.0
+Dogger Bank,Wind_offshr_floating,4,0.0
+East Anglia,Wind_offshr_floating,4,0.0
+Estonia,Wind_offshr_floating,4,0.0
+Finland,Wind_offshr_floating,4,0.0
+Firth of Forth,Wind_offshr_floating,4,1659.0
+France,Wind_offshr_floating,4,234.0
+Germany,Wind_offshr_floating,4,0.0
+Great Brit.,Wind_offshr_floating,4,0.0
+Helgoländer Bucht,Wind_offshr_floating,4,0.0
+Hollandsee Kust,Wind_offshr_floating,4,0.0
+Hornsea,Wind_offshr_floating,4,0.0
+Ireland,Wind_offshr_floating,4,79.0
+Italy,Wind_offshr_floating,4,0.0
+Latvia,Wind_offshr_floating,4,0.0
+Lithuania,Wind_offshr_floating,4,0.0
+Moray Firth,Wind_offshr_floating,4,696.0
+NO2,Wind_offshr_floating,4,0.0
+Netherlands,Wind_offshr_floating,4,0.0
+Nordsøen,Wind_offshr_floating,4,0.0
+Norfolk,Wind_offshr_floating,4,0.0
+Outer Dowsing,Wind_offshr_floating,4,0.0
+Poland,Wind_offshr_floating,4,0.0
+Portugal,Wind_offshr_floating,4,71.0
+Spain,Wind_offshr_floating,4,74.0
+Sweden,Wind_offshr_floating,4,76.0
+Sørlige Nordsjø I,Wind_offshr_floating,4,34.0
+Sørlige Nordsjø II,Wind_offshr_floating,4,108.0
+Utsira Nord,Wind_offshr_floating,4,51.0
+Belgium,Wind_offshr_floating,5,0.0
+Borssele,Wind_offshr_floating,5,0.0
+Denmark,Wind_offshr_floating,5,0.0
+Dogger Bank,Wind_offshr_floating,5,0.0
+East Anglia,Wind_offshr_floating,5,0.0
+Estonia,Wind_offshr_floating,5,0.0
+Finland,Wind_offshr_floating,5,0.0
+Firth of Forth,Wind_offshr_floating,5,2718.0
+France,Wind_offshr_floating,5,425.0
+Germany,Wind_offshr_floating,5,0.0
+Great Brit.,Wind_offshr_floating,5,0.0
+Helgoländer Bucht,Wind_offshr_floating,5,0.0
+Hollandsee Kust,Wind_offshr_floating,5,0.0
+Hornsea,Wind_offshr_floating,5,0.0
+Ireland,Wind_offshr_floating,5,145.0
+Italy,Wind_offshr_floating,5,0.0
+Latvia,Wind_offshr_floating,5,0.0
+Lithuania,Wind_offshr_floating,5,0.0
+Moray Firth,Wind_offshr_floating,5,1141.0
+NO2,Wind_offshr_floating,5,0.0
+Netherlands,Wind_offshr_floating,5,0.0
+Nordsøen,Wind_offshr_floating,5,0.0
+Norfolk,Wind_offshr_floating,5,0.0
+Outer Dowsing,Wind_offshr_floating,5,0.0
+Poland,Wind_offshr_floating,5,0.0
+Portugal,Wind_offshr_floating,5,125.0
+Spain,Wind_offshr_floating,5,132.0
+Sweden,Wind_offshr_floating,5,138.0
+Sørlige Nordsjø I,Wind_offshr_floating,5,62.0
+Sørlige Nordsjø II,Wind_offshr_floating,5,195.0
+Utsira Nord,Wind_offshr_floating,5,91.0
+Belgium,Wind_offshr_floating,6,0.0
+Borssele,Wind_offshr_floating,6,0.0
+Denmark,Wind_offshr_floating,6,0.0
+Dogger Bank,Wind_offshr_floating,6,0.0
+East Anglia,Wind_offshr_floating,6,0.0
+Estonia,Wind_offshr_floating,6,0.0
+Finland,Wind_offshr_floating,6,0.0
+Firth of Forth,Wind_offshr_floating,6,4105.0
+France,Wind_offshr_floating,6,720.0
+Germany,Wind_offshr_floating,6,0.0
+Great Brit.,Wind_offshr_floating,6,0.0
+Helgoländer Bucht,Wind_offshr_floating,6,0.0
+Hollandsee Kust,Wind_offshr_floating,6,0.0
+Hornsea,Wind_offshr_floating,6,0.0
+Ireland,Wind_offshr_floating,6,246.0
+Italy,Wind_offshr_floating,6,0.0
+Latvia,Wind_offshr_floating,6,0.0
+Lithuania,Wind_offshr_floating,6,0.0
+Moray Firth,Wind_offshr_floating,6,1723.0
+NO2,Wind_offshr_floating,6,0.0
+Netherlands,Wind_offshr_floating,6,0.0
+Nordsøen,Wind_offshr_floating,6,0.0
+Norfolk,Wind_offshr_floating,6,0.0
+Outer Dowsing,Wind_offshr_floating,6,0.0
+Poland,Wind_offshr_floating,6,0.0
+Portugal,Wind_offshr_floating,6,202.0
+Spain,Wind_offshr_floating,6,219.0
+Sweden,Wind_offshr_floating,6,235.0
+Sørlige Nordsjø I,Wind_offshr_floating,6,103.0
+Sørlige Nordsjø II,Wind_offshr_floating,6,326.0
+Utsira Nord,Wind_offshr_floating,6,152.0
+Belgium,Wind_offshr_floating,7,0.0
+Borssele,Wind_offshr_floating,7,0.0
+Denmark,Wind_offshr_floating,7,0.0
+Dogger Bank,Wind_offshr_floating,7,0.0
+East Anglia,Wind_offshr_floating,7,0.0
+Estonia,Wind_offshr_floating,7,0.0
+Finland,Wind_offshr_floating,7,0.0
+Firth of Forth,Wind_offshr_floating,7,5840.0
+France,Wind_offshr_floating,7,1156.0
+Germany,Wind_offshr_floating,7,0.0
+Great Brit.,Wind_offshr_floating,7,0.0
+Helgoländer Bucht,Wind_offshr_floating,7,0.0
+Hollandsee Kust,Wind_offshr_floating,7,0.0
+Hornsea,Wind_offshr_floating,7,0.0
+Ireland,Wind_offshr_floating,7,398.0
+Italy,Wind_offshr_floating,7,0.0
+Latvia,Wind_offshr_floating,7,0.0
+Lithuania,Wind_offshr_floating,7,0.0
+Moray Firth,Wind_offshr_floating,7,2451.0
+NO2,Wind_offshr_floating,7,0.0
+Netherlands,Wind_offshr_floating,7,0.0
+Nordsøen,Wind_offshr_floating,7,0.0
+Norfolk,Wind_offshr_floating,7,0.0
+Outer Dowsing,Wind_offshr_floating,7,0.0
+Poland,Wind_offshr_floating,7,0.0
+Portugal,Wind_offshr_floating,7,310.0
+Spain,Wind_offshr_floating,7,345.0
+Sweden,Wind_offshr_floating,7,382.0
+Sørlige Nordsjø I,Wind_offshr_floating,7,165.0
+Sørlige Nordsjø II,Wind_offshr_floating,7,520.0
+Utsira Nord,Wind_offshr_floating,7,243.0
+Belgium,Wind_offshr_grounded,1,2262.0
+Borssele,Wind_offshr_grounded,1,3739.0
+Denmark,Wind_offshr_grounded,1,2650.0
+Dogger Bank,Wind_offshr_grounded,1,3681.0
+East Anglia,Wind_offshr_grounded,1,2807.0
+Firth of Forth,Wind_offshr_grounded,1,1138.0
+France,Wind_offshr_grounded,1,1483.0
+Germany,Wind_offshr_grounded,1,8407.0
+Great Brit.,Wind_offshr_grounded,1,0.0
+Helgoländer Bucht,Wind_offshr_grounded,1,7166.0
+Hollandsee Kust,Wind_offshr_grounded,1,357.0
+Hornsea,Wind_offshr_grounded,1,2599.0
+Moray Firth,Wind_offshr_grounded,1,2415.0
+Netherlands,Wind_offshr_grounded,1,0.0
+Nordsøen,Wind_offshr_grounded,1,1120.0
+Norfolk,Wind_offshr_grounded,1,60.0
+Outer Dowsing,Wind_offshr_grounded,1,2809.0
+Belgium,Wind_offshr_grounded,2,2759.0
+Borssele,Wind_offshr_grounded,2,5229.0
+Denmark,Wind_offshr_grounded,2,3571.0
+Dogger Bank,Wind_offshr_grounded,2,4597.0
+East Anglia,Wind_offshr_grounded,2,3434.0
+Estonia,Wind_offshr_grounded,2,44.0
+Finland,Wind_offshr_grounded,2,681.0
+Firth of Forth,Wind_offshr_grounded,2,1490.0
+France,Wind_offshr_grounded,2,2013.0
+Germany,Wind_offshr_grounded,2,12402.0
+Great Brit.,Wind_offshr_grounded,2,0.0
+Helgoländer Bucht,Wind_offshr_grounded,2,10178.0
+Hollandsee Kust,Wind_offshr_grounded,2,546.0
+Hornsea,Wind_offshr_grounded,2,3253.0
+Ireland,Wind_offshr_grounded,2,680.0
+Italy,Wind_offshr_grounded,2,679.0
+Latvia,Wind_offshr_grounded,2,45.0
+Lithuania,Wind_offshr_grounded,2,44.0
+Moray Firth,Wind_offshr_grounded,2,2950.0
+NO2,Wind_offshr_grounded,2,0.0
+Netherlands,Wind_offshr_grounded,2,318.0
+Nordsøen,Wind_offshr_grounded,2,1502.0
+Norfolk,Wind_offshr_grounded,2,174.0
+Outer Dowsing,Wind_offshr_grounded,2,3430.0
+Poland,Wind_offshr_grounded,2,52.0
+Portugal,Wind_offshr_grounded,2,659.0
+Spain,Wind_offshr_grounded,2,664.0
+Sweden,Wind_offshr_grounded,2,669.0
+Sørlige Nordsjø I,Wind_offshr_grounded,2,6.0
+Sørlige Nordsjø II,Wind_offshr_grounded,2,4.0
+Utsira Nord,Wind_offshr_grounded,2,0.0
+Belgium,Wind_offshr_grounded,3,3303.0
+Borssele,Wind_offshr_grounded,3,7165.0
+Denmark,Wind_offshr_grounded,3,4787.0
+Dogger Bank,Wind_offshr_grounded,3,5675.0
+East Anglia,Wind_offshr_grounded,3,4147.0
+Estonia,Wind_offshr_grounded,3,115.0
+Finland,Wind_offshr_grounded,3,925.0
+Firth of Forth,Wind_offshr_grounded,3,1930.0
+France,Wind_offshr_grounded,3,2721.0
+Germany,Wind_offshr_grounded,3,17508.0
+Great Brit.,Wind_offshr_grounded,3,0.0
+Helgoländer Bucht,Wind_offshr_grounded,3,13831.0
+Hollandsee Kust,Wind_offshr_grounded,3,822.0
+Hornsea,Wind_offshr_grounded,3,4025.0
+Ireland,Wind_offshr_grounded,3,921.0
+Italy,Wind_offshr_grounded,3,921.0
+Latvia,Wind_offshr_grounded,3,122.0
+Lithuania,Wind_offshr_grounded,3,117.0
+Moray Firth,Wind_offshr_grounded,3,3558.0
+NO2,Wind_offshr_grounded,3,0.0
+Netherlands,Wind_offshr_grounded,3,932.0
+Nordsøen,Wind_offshr_grounded,3,2004.0
+Norfolk,Wind_offshr_grounded,3,343.0
+Outer Dowsing,Wind_offshr_grounded,3,4134.0
+Poland,Wind_offshr_grounded,3,163.0
+Portugal,Wind_offshr_grounded,3,862.0
+Spain,Wind_offshr_grounded,3,879.0
+Sweden,Wind_offshr_grounded,3,894.0
+Sørlige Nordsjø I,Wind_offshr_grounded,3,17.0
+Sørlige Nordsjø II,Wind_offshr_grounded,3,11.0
+Utsira Nord,Wind_offshr_grounded,3,0.0
+Belgium,Wind_offshr_grounded,4,3875.0
+Borssele,Wind_offshr_grounded,4,9557.0
+Denmark,Wind_offshr_grounded,4,6371.0
+Dogger Bank,Wind_offshr_grounded,4,6911.0
+East Anglia,Wind_offshr_grounded,4,4933.0
+Estonia,Wind_offshr_grounded,4,221.0
+Finland,Wind_offshr_grounded,4,1255.0
+Firth of Forth,Wind_offshr_grounded,4,2465.0
+France,Wind_offshr_grounded,4,3660.0
+Germany,Wind_offshr_grounded,4,23456.0
+Great Brit.,Wind_offshr_grounded,4,0.0
+Helgoländer Bucht,Wind_offshr_grounded,4,17835.0
+Hollandsee Kust,Wind_offshr_grounded,4,1209.0
+Hornsea,Wind_offshr_grounded,4,4914.0
+Ireland,Wind_offshr_grounded,4,1242.0
+Italy,Wind_offshr_grounded,4,1244.0
+Latvia,Wind_offshr_grounded,4,246.0
+Lithuania,Wind_offshr_grounded,4,229.0
+Moray Firth,Wind_offshr_grounded,4,4224.0
+NO2,Wind_offshr_grounded,4,0.0
+Netherlands,Wind_offshr_grounded,4,2001.0
+Nordsøen,Wind_offshr_grounded,4,2653.0
+Norfolk,Wind_offshr_grounded,4,583.0
+Outer Dowsing,Wind_offshr_grounded,4,4906.0
+Poland,Wind_offshr_grounded,4,378.0
+Portugal,Wind_offshr_grounded,4,1119.0
+Spain,Wind_offshr_grounded,4,1158.0
+Sweden,Wind_offshr_grounded,4,1193.0
+Sørlige Nordsjø I,Wind_offshr_grounded,4,34.0
+Sørlige Nordsjø II,Wind_offshr_grounded,4,22.0
+Utsira Nord,Wind_offshr_grounded,4,0.0
+Belgium,Wind_offshr_grounded,5,4452.0
+Borssele,Wind_offshr_grounded,5,12309.0
+Denmark,Wind_offshr_grounded,5,8401.0
+Dogger Bank,Wind_offshr_grounded,5,8285.0
+East Anglia,Wind_offshr_grounded,5,5765.0
+Estonia,Wind_offshr_grounded,5,373.0
+Finland,Wind_offshr_grounded,5,1698.0
+Firth of Forth,Wind_offshr_grounded,5,3100.0
+France,Wind_offshr_grounded,5,4890.0
+Germany,Wind_offshr_grounded,5,29705.0
+Great Brit.,Wind_offshr_grounded,5,0.0
+Helgoländer Bucht,Wind_offshr_grounded,5,21734.0
+Hollandsee Kust,Wind_offshr_grounded,5,1724.0
+Hornsea,Wind_offshr_grounded,5,5906.0
+Ireland,Wind_offshr_grounded,5,1665.0
+Italy,Wind_offshr_grounded,5,1674.0
+Latvia,Wind_offshr_grounded,5,440.0
+Lithuania,Wind_offshr_grounded,5,393.0
+Moray Firth,Wind_offshr_grounded,5,4927.0
+NO2,Wind_offshr_grounded,5,0.0
+Netherlands,Wind_offshr_grounded,5,3708.0
+Nordsøen,Wind_offshr_grounded,5,3481.0
+Norfolk,Wind_offshr_grounded,5,905.0
+Outer Dowsing,Wind_offshr_grounded,5,5720.0
+Poland,Wind_offshr_grounded,5,770.0
+Portugal,Wind_offshr_grounded,5,1437.0
+Spain,Wind_offshr_grounded,5,1515.0
+Sweden,Wind_offshr_grounded,5,1590.0
+Sørlige Nordsjø I,Wind_offshr_grounded,5,62.0
+Sørlige Nordsjø II,Wind_offshr_grounded,5,39.0
+Utsira Nord,Wind_offshr_grounded,5,0.0
+Belgium,Wind_offshr_grounded,6,5011.0
+Borssele,Wind_offshr_grounded,6,15181.0
+Denmark,Wind_offshr_grounded,6,10948.0
+Dogger Bank,Wind_offshr_grounded,6,9756.0
+East Anglia,Wind_offshr_grounded,6,6604.0
+Estonia,Wind_offshr_grounded,6,578.0
+Finland,Wind_offshr_grounded,6,2287.0
+Firth of Forth,Wind_offshr_grounded,6,3830.0
+France,Wind_offshr_grounded,6,6476.0
+Germany,Wind_offshr_grounded,6,35628.0
+Great Brit.,Wind_offshr_grounded,6,0.0
+Helgoländer Bucht,Wind_offshr_grounded,6,25079.0
+Hollandsee Kust,Wind_offshr_grounded,6,2369.0
+Hornsea,Wind_offshr_grounded,6,6973.0
+Ireland,Wind_offshr_grounded,6,2216.0
+Italy,Wind_offshr_grounded,6,2240.0
+Latvia,Wind_offshr_grounded,6,730.0
+Lithuania,Wind_offshr_grounded,6,621.0
+Moray Firth,Wind_offshr_grounded,6,5632.0
+NO2,Wind_offshr_grounded,6,0.0
+Netherlands,Wind_offshr_grounded,6,6206.0
+Nordsøen,Wind_offshr_grounded,6,4514.0
+Norfolk,Wind_offshr_grounded,6,1323.0
+Outer Dowsing,Wind_offshr_grounded,6,6535.0
+Poland,Wind_offshr_grounded,6,1441.0
+Portugal,Wind_offshr_grounded,6,1822.0
+Spain,Wind_offshr_grounded,6,1968.0
+Sweden,Wind_offshr_grounded,6,2115.0
+Sørlige Nordsjø I,Wind_offshr_grounded,6,103.0
+Sørlige Nordsjø II,Wind_offshr_grounded,6,65.0
+Utsira Nord,Wind_offshr_grounded,6,0.0
+Belgium,Wind_offshr_grounded,7,5530.0
+Borssele,Wind_offshr_grounded,7,17802.0
+Denmark,Wind_offshr_grounded,7,14062.0
+Dogger Bank,Wind_offshr_grounded,7,11265.0
+East Anglia,Wind_offshr_grounded,7,7402.0
+Estonia,Wind_offshr_grounded,7,841.0
+Finland,Wind_offshr_grounded,7,3065.0
+Firth of Forth,Wind_offshr_grounded,7,4640.0
+France,Wind_offshr_grounded,7,8479.0
+Germany,Wind_offshr_grounded,7,40762.0
+Great Brit.,Wind_offshr_grounded,7,0.0
+Helgoländer Bucht,Wind_offshr_grounded,7,27597.0
+Hollandsee Kust,Wind_offshr_grounded,7,3114.0
+Hornsea,Wind_offshr_grounded,7,8074.0
+Ireland,Wind_offshr_grounded,7,2919.0
+Italy,Wind_offshr_grounded,7,2975.0
+Latvia,Wind_offshr_grounded,7,1153.0
+Lithuania,Wind_offshr_grounded,7,924.0
+Moray Firth,Wind_offshr_grounded,7,6296.0
+NO2,Wind_offshr_grounded,7,0.0
+Netherlands,Wind_offshr_grounded,7,9552.0
+Nordsøen,Wind_offshr_grounded,7,5769.0
+Norfolk,Wind_offshr_grounded,7,1839.0
+Outer Dowsing,Wind_offshr_grounded,7,7302.0
+Poland,Wind_offshr_grounded,7,2520.0
+Portugal,Wind_offshr_grounded,7,2275.0
+Spain,Wind_offshr_grounded,7,2531.0
+Sweden,Wind_offshr_grounded,7,2805.0
+Sørlige Nordsjø I,Wind_offshr_grounded,7,165.0
+Sørlige Nordsjø II,Wind_offshr_grounded,7,104.0
+Utsira Nord,Wind_offshr_grounded,7,0.0
